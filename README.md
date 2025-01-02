@@ -3,10 +3,12 @@
 Welcome to the **59th Store Sales and Performance Analysis**, an insightful dive into the data behind the success of my online thrift store. This project uses simulated data to mimic real-world sales trends, revealing the metrics and insights that drive profitability and growth.
 
 ---
+![59th store sales dashboard]https://github.com/M0Data/59th-Store-Sales-and-Performance-Analysis/blob/main/59th%20store%20sales%20dashboard.PNG?raw=true
 
+---
 ## 📖 **Overview**
 
-This dashboard analyzes the sales and performance of **59th Store**, a thriving online thrift store. Using data generated with **Mockaroo**, I explored key variables such as cost price, selling price, sales channels, and location. By leveraging **Microsoft Excel**, I cleaned, analyzed, and visualized the data to uncover fascinating trends and actionable insights.
+This dashboard analyzes the sales and performance of 59th Store, a thriving online thrift store. Using data generated with Mockaroo, I explored key variables such as cost price, selling price, sales channels, and location. Leveraging Microsoft Excel, I cleaned, analyzed, and visualized the data to uncover fascinating trends and actionable insights.
 
 ---
 
