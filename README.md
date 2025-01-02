@@ -3,7 +3,7 @@
 Welcome to the **59th Store Sales and Performance Analysis**, an insightful dive into the data behind the success of my online thrift store. This project uses simulated data to mimic real-world sales trends, revealing the metrics and insights that drive profitability and growth.
 
 ---
-![59th store sales dashboard]https://github.com/M0Data/59th-Store-Sales-and-Performance-Analysis/blob/main/59th%20store%20sales%20dashboard.PNG?raw=true
+![59th store sales dashboard](https://github.com/M0Data/59th-Store-Sales-and-Performance-Analysis/blob/main/59th%20store%20sales%20dashboard.PNG?raw=true)
 
 ---
 ## 📖 **Overview**
