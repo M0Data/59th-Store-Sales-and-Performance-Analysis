@@ -1,4 +1,4 @@
-# 🛍️ 59th Store Sales and Performance Analysis
+# 59th Store Sales and Performance Analysis
 
 Welcome to the **59th Store Sales and Performance Analysis**, an insightful dive into the data behind the success of my online thrift store. This project uses simulated data to mimic real-world sales trends, revealing the metrics and insights that drive profitability and growth.
 
@@ -6,13 +6,13 @@ Welcome to the **59th Store Sales and Performance Analysis**, an insightful dive
 ![59th store sales dashboard](https://github.com/M0Data/59th-Store-Sales-and-Performance-Analysis/blob/main/59th%20store%20sales%20dashboard.PNG?raw=true)
 
 ---
-## 📖 **Overview**
+## **Overview**
 
 This dashboard analyzes the sales and performance of 59th Store, a thriving online thrift store. Using data generated with Mockaroo, I explored key variables such as cost price, selling price, sales channels, and location. Leveraging Microsoft Excel, I cleaned, analyzed, and visualized the data to uncover fascinating trends and actionable insights.
 
 ---
 
-## 💡 **Key Metrics Summary**
+## **Key Metrics Summary**
 - **Total Revenue:** N166,344,000  
 - **Total Sales:** 39,792  
 - **Average Profit Margin:** 55%  
@@ -22,7 +22,7 @@ This dashboard analyzes the sales and performance of 59th Store, a thriving onli
 
 ---
 
-## 🔍 **Key Insights**
+## **Key Insights**
 
 ### **Sales Performance**
 - Total revenue of **N166.3 million** highlights a successful year with 39,792 items sold.  
@@ -35,7 +35,7 @@ This dashboard analyzes the sales and performance of 59th Store, a thriving onli
   - WhatsApp: 26%  
   - Twitter & Instagram: 25% each  
   - Physical Store: 24%  
-- **Top Location:** Lagos dominates, showcasing strong market presence.  
+- **Top Location:** Lagos dominates, showcasing a strong market presence.  
 - Sales have been steady with a slight mid-year dip, hinting at seasonal variations.  
 
 ### **Customer Analysis**
@@ -47,7 +47,7 @@ This dashboard analyzes the sales and performance of 59th Store, a thriving onli
 
 ---
 
-## 🎯 **Recommendations**
+## **Recommendations**
 
 ### **Product Focus**
 - Stock more **T-shirts** and **Shorts** to meet high demand and boost revenue.  
@@ -69,20 +69,20 @@ This dashboard analyzes the sales and performance of 59th Store, a thriving onli
 
 ---
 
-## 📊 **Disclaimer**
+## **Disclaimer**
 This analysis uses simulated data generated via **Mockaroo**. While the insights are illustrative, real-world results may vary. Data analysis is an ever-evolving process, and this project showcases the power of data-driven decision-making.
 
 ---
 
-## 🛠️ **Technologies Used**
+##  **Technologies Used**
 - **Microsoft Excel:** Data cleaning, analysis, and visualization.  
 
 ---
 
-## 🤝 **Contributions**
+##  **Contributions**
 Feedback and suggestions are welcome! Feel free to open an issue or submit a pull request for improvements.  
 
 ---
 
-## 📩 **Contact**
-For questions or collaboration, reach out to **Moyin Odumewu**. Let’s connect and explore the world of data together!
+## **Contact**
+If you have any questions or collaborate, please reach out to **Moyin Odumewu**. Let’s connect and explore the world of data together!
